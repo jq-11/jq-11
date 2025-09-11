@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Julia Qiu. I'm currently a 3A Data Science student attending the Univeristy of Waterloo!
+
+I really like using linear algebra and programming to manipulate and learn from biological data. I think computational neuroscience is really cool!
+
+Some of my work at Bioinformatics.ca, OICR, and NAIS, Agriculture and Agri-Food Canada is viewable on my GitHub or [my personal website](https://jq-11.github.io/).
+
+Thanks for stopping by!
+
 <!--
 **jq-11/jq-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
