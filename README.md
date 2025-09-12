@@ -4,7 +4,7 @@ My name is Julia Qiu. I'm currently a 3A Data Science student attending the Univ
 
 I like using linear algebra (machine learning!), statistics and programming to manipulate and learn from biological data. I think computational neuroscience is really cool!
 
-Some of my work at Bioinformatics.ca, OICR, and NAIS, Agriculture and Agri-Food Canada is viewable on my GitHub or [my personal website](https://jq-11.github.io/).
+Some of my work at Bioinformatics.ca, Ontario Institute for Cancer Research (OICR), and National Agroclimate Information Service (NAIS), Agriculture and Agri-Food Canada (AAFC/AAC) is viewable on my GitHub or [my personal website](https://jq-11.github.io/).
 
 Thanks for stopping by!
 
