@@ -2,9 +2,9 @@
 
 My name is Julia Qiu. I'm currently a 3A Data Science student attending the Univeristy of Waterloo!
 
-I like using linear algebra (machine learning!), statistics and programming to manipulate and learn from biological data. I think computational neuroscience is really cool!
+I like using linear algebra (machine learning!), statistics and programming to manipulate and learn from biological data. Aside from courses and internships, I am working with EEG data for BCIs and looking into computational neuroscience!
 
-I'm currently working as a Software Developer in Artificial Intelligence Research at SINTEF Digital in Oslo, Norway!
+Currently, I'm working as a Software Developer in Artificial Intelligence Research at SINTEF Digital in Oslo, Norway!
 
 Some of my work at Bioinformatics.ca, Ontario Institute for Cancer Research (OICR), and National Agroclimate Information Service (NAIS), Agriculture and Agri-Food Canada (AAFC/AAC) is viewable on my GitHub or [my personal website](https://jq-11.github.io/).
 
