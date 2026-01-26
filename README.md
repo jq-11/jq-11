@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Julia Qiu. I'm currently a 3A Data Science student attending the Univeristy of Waterloo!
+My name is Julia Qiu. I'm currently a third-year (3A) Data Science student attending the Univeristy of Waterloo!
 
 I like using linear algebra (machine learning!), statistics and programming to manipulate and learn from biological data. Aside from courses and internships, I am working with EEG data for BCIs and looking into computational neuroscience!
 
